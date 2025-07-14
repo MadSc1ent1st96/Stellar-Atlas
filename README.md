@@ -6,6 +6,8 @@ The **Stellar Atlas** is an independent research project focused on simulating a
 
 The primary goal of the Stellar Atlas is to provide an accessible and interactive platform for understanding stellar behavior. It aims to visualize key evolutionary indicators such as Hertzsprung-Russell (HR) diagrams, core temperature vs. density profiles, and luminosity vs. central hydrogen fraction over time. These visualizations, combined with detailed analysis, offer insights into the internal structure, fusion processes, and life cycles of stars.
 
+# The website is live at: 
+
 ## Features
 
 The Streamlit web application provides the following key features:
