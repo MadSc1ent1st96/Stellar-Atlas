@@ -18,8 +18,8 @@ The primary focus is on understanding stellar behavior through **Hertzsprung–R
 
 ---
 
-## The project database is uploaded at Zenodo.
-## [Access it here](https://zenodo.org/communities/mesa/records?q=&l=list&p=1&s=10&sort=newest)
+### The project database is uploaded at Zenodo.
+### Access it here
 
 ---
 
