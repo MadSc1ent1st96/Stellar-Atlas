@@ -164,7 +164,7 @@ else:
             """)
             st.divider()
 
-            st.image("work/ZAMS_all_metallicities.png", caption="ZAMS plot across all metallicities", use_container_width=True)
+            st.image("work/ZAMS_All_Metallicities.png", caption="ZAMS plot across all metallicities", use_container_width=True)
             st.divider()
             st.markdown("""
                 This extended plot includes ZAMS tracks for six different metallicities: Z = 0.0001, 0.001, 0.006, 0.014, 0.02, and 0.04.
@@ -241,7 +241,7 @@ else:
             """)
             st.divider()
 
-            st.image("work/ZAMS_all_metallicities.png", caption="ZAMS plot across all metallicities", use_container_width=True)
+            st.image("work/ZAMS_All_Metallicities.png", caption="ZAMS plot across all metallicities", use_container_width=True)
             st.divider()
             st.markdown("""
                 This extended plot includes ZAMS tracks for six different metallicities: Z = 0.0001, 0.001, 0.006, 0.014, 0.02, and 0.04.
