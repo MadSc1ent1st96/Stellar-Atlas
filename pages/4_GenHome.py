@@ -9,7 +9,7 @@ st.markdown("### Visualizing the Lives of Stars")
 st.markdown("""
 Welcome to the **Stellar Evolution Atlas** — a personal astrophysics project by **Aniket Mishra** *(BS-MS, IISER Kolkata)* that simulates and visualizes how stars evolve over time.
 
-Leveraging tools like **MESA**, **FFmpeg**, **bash scripting**, and **Streamlit**, this project models stellar life cycles from pre-main-sequence to red giant phases for stars of varying masses and metallicities.
+Using tools like **MESA**, **FFmpeg**, **bash scripting**, and **Streamlit**, this project models stellar life cycles from pre-main-sequence to red giant phases for stars of varying masses and metallicities.
 
 ---
 
@@ -34,7 +34,7 @@ Use the **sidebar** or navigation tabs to get started.
 
 ### 📂 Data Access
 
-The complete dataset (~1200 simulations) is hosted on Zenodo:  
+The complete dataset is hosted on Zenodo:  
 📎 [View Dataset on Zenodo](https://doi.org/10.5281/zenodo.15571157)
 
 ---
