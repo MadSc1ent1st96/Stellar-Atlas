@@ -93,15 +93,15 @@ Once the Streamlit application is running, you can:
 
 ```
 Stellar-Atlas/
-├── data/                 # Contains pre-generated MESA simulation output data
-├── src/                  # Source code for the Streamlit application and data processing scripts
-│   ├── app.py            # Main Streamlit application file
-│   ├── mesa_reader.py    # Custom utility for reading MESA data
+├── work/                 # The main directory containing all the resouces (Images and videos) of the simulation.
+├── pages/                  # Source code for the Streamlit application and data processing scripts
+│   ├── 1_Atlas.py            # Main Streamlit application file
+│   ├── 2_Project_Report.py    # Custom utility for reading MESA data
 │   └── ...               # Other scripts for plotting, analysis, etc.
-├── docs/                 # Project documentation, including the final report
+├── assets/                 # Project documentation, including the final report
 │   └── Stellar-Atlas-Final-Report.pdf
-├── images/               # Screenshots and other relevant images
-├── requirements.txt      # Python dependencies
+├── 0_Home.py   # The main landing page, the start of the website.
+├── utils.py    # Some general page settings
 ├── README.md             # This file
 └── LICENSE               # Project license information
 ```
