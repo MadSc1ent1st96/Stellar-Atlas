@@ -2,8 +2,8 @@ import streamlit as st
 
 def setup_page():
     st.set_page_config(
-        page_title="Stellar Atlas",
-        layout="wide",
+        page_title="Home | Stellar Evolution Atlas",
+        layout="centered",
         initial_sidebar_state="auto"
     )
     with st.sidebar:
