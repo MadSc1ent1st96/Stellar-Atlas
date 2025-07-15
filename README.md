@@ -95,8 +95,8 @@ Once the Streamlit application is running, you can:
 Stellar-Atlas/
 ├── work/                 # The main directory containing all the resouces (Images and videos) of the simulation.
 ├── pages/                  # Source code for the Streamlit application and data processing scripts
-│   ├── 1_Atlas.py            # Main Streamlit application file
-│   ├── 2_Project_Report.py    # Custom utility for reading MESA data
+│   ├── 1_Atlas.py            # The script for running the Atlas page
+│   ├── 2_Project_Report.py    # Script for running the Project Report page
 │   └── ...               # Other scripts for plotting, analysis, etc.
 ├── assets/                 # Project documentation, including the final report
 │   └── Stellar-Atlas-Final-Report.pdf
